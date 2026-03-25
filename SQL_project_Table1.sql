@@ -55,5 +55,3 @@ LEFT JOIN economies AS e
 	ON cpay.payroll_year = e.YEAR
 	WHERE e.country = 'Czech Republic'
 ORDER BY YEAR;
-
-
