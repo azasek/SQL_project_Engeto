@@ -38,6 +38,3 @@ WHERE 1=1
 	AND price_percentage_increase - wage_percentage_increase > 10
 --ORDER BY difference_percentage_increase desc
 ;
-
-
-
