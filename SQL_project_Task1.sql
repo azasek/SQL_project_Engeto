@@ -36,6 +36,3 @@ WHERE 1=1
 	AND wage_previous_year - wage > 0  --decrease
 --ORDER BY industry_branch_name ASC, YEAR ASC 
 ;
-
-
-
