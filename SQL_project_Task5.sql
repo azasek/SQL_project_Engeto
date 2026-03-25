@@ -75,4 +75,3 @@ LATERAL (
         ('gdp_now__price_now', gdp_now__price_now),
         ('gdp_now__price_next_year', gdp_now__price_next_year)
 ) AS transpose_results(metric, correlation);
-
