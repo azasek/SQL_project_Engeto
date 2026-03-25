@@ -59,6 +59,3 @@ ORDER BY t.YEAR DESC, category_code
 LIMIT 2
 )
 ;
-
-
-
