@@ -25,5 +25,3 @@ SELECT
 FROM cte_food_over_year_balance
 WHERE price_year_before NOTNULL 
 ORDER BY percentage_increase ASC;
-
-
